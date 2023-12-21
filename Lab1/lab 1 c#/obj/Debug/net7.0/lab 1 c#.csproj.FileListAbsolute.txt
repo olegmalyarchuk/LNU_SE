@@ -1,0 +1,15 @@
+C:\Users\Maks\Desktop\labs\3 course\Patterns\lab 1 c#\lab 1 c#\bin\Debug\net7.0\lab 1 c#.exe
+C:\Users\Maks\Desktop\labs\3 course\Patterns\lab 1 c#\lab 1 c#\bin\Debug\net7.0\lab 1 c#.deps.json
+C:\Users\Maks\Desktop\labs\3 course\Patterns\lab 1 c#\lab 1 c#\bin\Debug\net7.0\lab 1 c#.runtimeconfig.json
+C:\Users\Maks\Desktop\labs\3 course\Patterns\lab 1 c#\lab 1 c#\bin\Debug\net7.0\lab 1 c#.dll
+C:\Users\Maks\Desktop\labs\3 course\Patterns\lab 1 c#\lab 1 c#\bin\Debug\net7.0\lab 1 c#.pdb
+C:\Users\Maks\Desktop\labs\3 course\Patterns\lab 1 c#\lab 1 c#\obj\Debug\net7.0\lab 1 c#.csproj.AssemblyReference.cache
+C:\Users\Maks\Desktop\labs\3 course\Patterns\lab 1 c#\lab 1 c#\obj\Debug\net7.0\lab 1 c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maks\Desktop\labs\3 course\Patterns\lab 1 c#\lab 1 c#\obj\Debug\net7.0\lab 1 c#.AssemblyInfoInputs.cache
+C:\Users\Maks\Desktop\labs\3 course\Patterns\lab 1 c#\lab 1 c#\obj\Debug\net7.0\lab 1 c#.AssemblyInfo.cs
+C:\Users\Maks\Desktop\labs\3 course\Patterns\lab 1 c#\lab 1 c#\obj\Debug\net7.0\lab 1 c#.csproj.CoreCompileInputs.cache
+C:\Users\Maks\Desktop\labs\3 course\Patterns\lab 1 c#\lab 1 c#\obj\Debug\net7.0\lab 1 c#.dll
+C:\Users\Maks\Desktop\labs\3 course\Patterns\lab 1 c#\lab 1 c#\obj\Debug\net7.0\refint\lab 1 c#.dll
+C:\Users\Maks\Desktop\labs\3 course\Patterns\lab 1 c#\lab 1 c#\obj\Debug\net7.0\lab 1 c#.pdb
+C:\Users\Maks\Desktop\labs\3 course\Patterns\lab 1 c#\lab 1 c#\obj\Debug\net7.0\lab 1 c#.genruntimeconfig.cache
+C:\Users\Maks\Desktop\labs\3 course\Patterns\lab 1 c#\lab 1 c#\obj\Debug\net7.0\ref\lab 1 c#.dll

@@ -1,0 +1,45 @@
+{
+  "customers": [
+    {
+      "ID": 0,
+        "name": "jhon",
+        "age": 19,
+        "operators": 
+        [
+          {
+            "ID": 2,
+            "talkingCharge": 2,
+            "messageCost": 2,
+            "networkCharge": 1,
+            "discountRate": 20
+          },
+          {
+            "ID": 1,
+            "talkingCharge": 1,
+            "messageCost": 3,
+            "networkCharge": 2,
+            "discountRate": 30
+          }
+        ],
+        "bills": []
+      },
+      {
+        "ID": 1,
+        "name": "jhon",
+        "age": 14,
+        "operators": 
+        [
+          {
+            "ID": 2,
+            "talkingCharge": 2,
+            "messageCost": 2,
+            "networkCharge": 1,
+            "discountRate": 20
+          }
+        ],
+        "bills": []
+    }
+  ],
+  "operators": [],
+  "bills": []
+}

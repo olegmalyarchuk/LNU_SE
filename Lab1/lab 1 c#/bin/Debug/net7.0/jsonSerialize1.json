@@ -1,0 +1,41 @@
+{
+  "customers": [
+    {
+      "ID": 0,
+        "name": "jhon",
+        "age": 19,
+        "operators": 
+        [
+          {
+            "ID": 1,
+            "talkingCharge": 0,
+            "messageCost": 0,
+            "networkCharge": 0,
+            "discountRate": 0
+          }
+        ],
+        "bills": []
+      },
+      {
+        "ID": 1,
+        "name": "jhon",
+        "age": 14,
+        "operators": 
+        [
+          {
+            "ID": 2,
+            "talkingCharge": 0,
+            "messageCost": 0,
+            "networkCharge": 0,
+            "discountRate": 0
+          }
+        ],
+        "bills": []
+    }
+  ],
+  "bills": [
+    {
+      "limitingAmount": 100000
+    }
+  ]
+}

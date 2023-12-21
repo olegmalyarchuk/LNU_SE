@@ -1,0 +1,87 @@
+{
+    "containers": [
+      {
+        "ID": 0,
+        "weight": "500"
+      },
+      {
+        "ID": 1,
+        "weight": "7000"
+      },
+      {
+        "ID": 2,
+        "weight": "100L"
+      },
+      {
+        "ID": 3,
+        "weight": "10000R"
+      },
+      {
+        "ID": 4,
+        "weight": "3000"
+      },
+      {
+        "ID": 5,
+        "weight": "4500L"
+      },
+      {
+        "ID": 6,
+        "weight": "5600R"
+      },
+      {
+        "ID": 7,
+        "weight": "6000"
+      },
+      {
+        "ID": 8,
+        "weight": "250"
+      }
+    ],
+    "ships": [
+        {
+            "ID": 0,
+            "fuel": 1000.0,
+            "currentPort": {"ID": 0},
+            "totalWeightCapacity": 50000,
+            "maxNumberOfAllContainers": 10,
+            "maxNumberOfHeavyContainers": 6,
+            "maxNumberOfLiquidContainers": 3,
+            "maxNumberOfRefrigeratedContainers": 3,
+            "fuelConsumptionPerKM": 100
+        },
+        {
+            "ID": 1,
+            "fuel": 750.0,
+            "currentPort": null,
+            "totalWeightCapacity": 35000,
+            "maxNumberOfAllContainers": 7,
+            "maxNumberOfHeavyContainers": 3,
+            "maxNumberOfLiquidContainers": 2,
+            "maxNumberOfRefrigeratedContainers": 1,
+            "fuelConsumptionPerKM": 50
+        },
+        {
+            "ID": 2,
+            "fuel": 400.0,
+            "currentPort": null,
+            "totalWeightCapacity": 10000,
+            "maxNumberOfAllContainers": 4,
+            "maxNumberOfHeavyContainers": 2,
+            "maxNumberOfLiquidContainers": 1,
+            "maxNumberOfRefrigeratedContainers": 1,
+            "fuelConsumptionPerKM": 20
+        }
+    ],
+    "ports": [
+        {
+            "ID": 0,
+            "latitude": 40.4507868,
+            "longitude": 19.4035665
+        },
+        {
+            "ID": 1,
+            "latitude": 44.1071189,
+            "longitude": 9.6809488
+        }
+    ]
+  }

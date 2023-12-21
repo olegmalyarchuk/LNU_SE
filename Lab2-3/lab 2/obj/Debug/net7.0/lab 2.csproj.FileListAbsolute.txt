@@ -1,0 +1,15 @@
+C:\Users\Maks\Desktop\labs\3 course\1 semestr\Software Architecture\lab 2\lab 2\bin\Debug\net7.0\lab 2.exe
+C:\Users\Maks\Desktop\labs\3 course\1 semestr\Software Architecture\lab 2\lab 2\bin\Debug\net7.0\lab 2.deps.json
+C:\Users\Maks\Desktop\labs\3 course\1 semestr\Software Architecture\lab 2\lab 2\bin\Debug\net7.0\lab 2.runtimeconfig.json
+C:\Users\Maks\Desktop\labs\3 course\1 semestr\Software Architecture\lab 2\lab 2\bin\Debug\net7.0\lab 2.dll
+C:\Users\Maks\Desktop\labs\3 course\1 semestr\Software Architecture\lab 2\lab 2\bin\Debug\net7.0\lab 2.pdb
+C:\Users\Maks\Desktop\labs\3 course\1 semestr\Software Architecture\lab 2\lab 2\obj\Debug\net7.0\lab 2.csproj.AssemblyReference.cache
+C:\Users\Maks\Desktop\labs\3 course\1 semestr\Software Architecture\lab 2\lab 2\obj\Debug\net7.0\lab 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maks\Desktop\labs\3 course\1 semestr\Software Architecture\lab 2\lab 2\obj\Debug\net7.0\lab 2.AssemblyInfoInputs.cache
+C:\Users\Maks\Desktop\labs\3 course\1 semestr\Software Architecture\lab 2\lab 2\obj\Debug\net7.0\lab 2.AssemblyInfo.cs
+C:\Users\Maks\Desktop\labs\3 course\1 semestr\Software Architecture\lab 2\lab 2\obj\Debug\net7.0\lab 2.csproj.CoreCompileInputs.cache
+C:\Users\Maks\Desktop\labs\3 course\1 semestr\Software Architecture\lab 2\lab 2\obj\Debug\net7.0\lab 2.dll
+C:\Users\Maks\Desktop\labs\3 course\1 semestr\Software Architecture\lab 2\lab 2\obj\Debug\net7.0\refint\lab 2.dll
+C:\Users\Maks\Desktop\labs\3 course\1 semestr\Software Architecture\lab 2\lab 2\obj\Debug\net7.0\lab 2.pdb
+C:\Users\Maks\Desktop\labs\3 course\1 semestr\Software Architecture\lab 2\lab 2\obj\Debug\net7.0\lab 2.genruntimeconfig.cache
+C:\Users\Maks\Desktop\labs\3 course\1 semestr\Software Architecture\lab 2\lab 2\obj\Debug\net7.0\ref\lab 2.dll

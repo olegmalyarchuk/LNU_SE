@@ -1,0 +1,30 @@
+C:\Users\Maks\Desktop\labs\3 course\Patterns\lab_5\lab_5\obj\Debug\net7.0\lab_5.csproj.AssemblyReference.cache
+C:\Users\Maks\Desktop\labs\3 course\Patterns\lab_5\lab_5\obj\Debug\net7.0\lab_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maks\Desktop\labs\3 course\Patterns\lab_5\lab_5\obj\Debug\net7.0\lab_5.AssemblyInfoInputs.cache
+C:\Users\Maks\Desktop\labs\3 course\Patterns\lab_5\lab_5\obj\Debug\net7.0\lab_5.AssemblyInfo.cs
+C:\Users\Maks\Desktop\labs\3 course\Patterns\lab_5\lab_5\obj\Debug\net7.0\lab_5.csproj.CoreCompileInputs.cache
+C:\Users\Maks\Desktop\labs\3 course\Patterns\lab_5\lab_5\bin\Debug\net7.0\lab_5.exe
+C:\Users\Maks\Desktop\labs\3 course\Patterns\lab_5\lab_5\bin\Debug\net7.0\lab_5.deps.json
+C:\Users\Maks\Desktop\labs\3 course\Patterns\lab_5\lab_5\bin\Debug\net7.0\lab_5.runtimeconfig.json
+C:\Users\Maks\Desktop\labs\3 course\Patterns\lab_5\lab_5\bin\Debug\net7.0\lab_5.dll
+C:\Users\Maks\Desktop\labs\3 course\Patterns\lab_5\lab_5\bin\Debug\net7.0\lab_5.pdb
+C:\Users\Maks\Desktop\labs\3 course\Patterns\lab_5\lab_5\obj\Debug\net7.0\lab_5.dll
+C:\Users\Maks\Desktop\labs\3 course\Patterns\lab_5\lab_5\obj\Debug\net7.0\refint\lab_5.dll
+C:\Users\Maks\Desktop\labs\3 course\Patterns\lab_5\lab_5\obj\Debug\net7.0\lab_5.pdb
+C:\Users\Maks\Desktop\labs\3 course\Patterns\lab_5\lab_5\obj\Debug\net7.0\lab_5.genruntimeconfig.cache
+C:\Users\Maks\Desktop\labs\3 course\Patterns\lab_5\lab_5\obj\Debug\net7.0\ref\lab_5.dll
+C:\Users\Maks\Desktop\labs\3 course\1 semestr\Software Architecture\lab 5\lab_5\bin\Debug\net7.0\lab_5.exe
+C:\Users\Maks\Desktop\labs\3 course\1 semestr\Software Architecture\lab 5\lab_5\bin\Debug\net7.0\lab_5.deps.json
+C:\Users\Maks\Desktop\labs\3 course\1 semestr\Software Architecture\lab 5\lab_5\bin\Debug\net7.0\lab_5.runtimeconfig.json
+C:\Users\Maks\Desktop\labs\3 course\1 semestr\Software Architecture\lab 5\lab_5\bin\Debug\net7.0\lab_5.dll
+C:\Users\Maks\Desktop\labs\3 course\1 semestr\Software Architecture\lab 5\lab_5\bin\Debug\net7.0\lab_5.pdb
+C:\Users\Maks\Desktop\labs\3 course\1 semestr\Software Architecture\lab 5\lab_5\obj\Debug\net7.0\lab_5.csproj.AssemblyReference.cache
+C:\Users\Maks\Desktop\labs\3 course\1 semestr\Software Architecture\lab 5\lab_5\obj\Debug\net7.0\lab_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maks\Desktop\labs\3 course\1 semestr\Software Architecture\lab 5\lab_5\obj\Debug\net7.0\lab_5.AssemblyInfoInputs.cache
+C:\Users\Maks\Desktop\labs\3 course\1 semestr\Software Architecture\lab 5\lab_5\obj\Debug\net7.0\lab_5.AssemblyInfo.cs
+C:\Users\Maks\Desktop\labs\3 course\1 semestr\Software Architecture\lab 5\lab_5\obj\Debug\net7.0\lab_5.csproj.CoreCompileInputs.cache
+C:\Users\Maks\Desktop\labs\3 course\1 semestr\Software Architecture\lab 5\lab_5\obj\Debug\net7.0\lab_5.dll
+C:\Users\Maks\Desktop\labs\3 course\1 semestr\Software Architecture\lab 5\lab_5\obj\Debug\net7.0\refint\lab_5.dll
+C:\Users\Maks\Desktop\labs\3 course\1 semestr\Software Architecture\lab 5\lab_5\obj\Debug\net7.0\lab_5.pdb
+C:\Users\Maks\Desktop\labs\3 course\1 semestr\Software Architecture\lab 5\lab_5\obj\Debug\net7.0\lab_5.genruntimeconfig.cache
+C:\Users\Maks\Desktop\labs\3 course\1 semestr\Software Architecture\lab 5\lab_5\obj\Debug\net7.0\ref\lab_5.dll
